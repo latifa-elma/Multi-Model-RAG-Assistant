@@ -3,12 +3,8 @@ build:
   tools:
     python: "3.9"
 
-
 sphinx:
-  configuration: documentation/source/conf.py
-
-format:
-  -pdf
+  configuration: DOCUMENTATION/source/conf.py
 
 python:
   install:
