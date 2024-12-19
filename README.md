@@ -1,4 +1,4 @@
-# Assistant RAG Multi-Modèles
+# Assistant RAG Multi-Modèles 
 
 Ce projet est une application Streamlit pour un assistant de récupération de documents (RAG) multi-modèles utilisant des modèles de langage LLM. L'application permet de charger, traiter et interroger des documents en utilisant différents modèles de langage.
 
